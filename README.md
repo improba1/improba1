@@ -6,7 +6,11 @@
 
 <h3 align="center">Python Developer | Java Developer </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=blender,cpp,idea,ai,java,linux,py,visualstudio,vscode,windows)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,cpp,idea,ai,java,linux,py,visualstudio,vscode,windows"/>
+  </a>
+</p>
 
 ---
 
