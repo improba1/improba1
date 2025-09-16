@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Python Developer | Java Developer </h3>
+<h3 align="center">Python & Java Developer </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
