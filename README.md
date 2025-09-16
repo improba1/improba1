@@ -18,6 +18,7 @@
 
 - **Telegram:** [@mllfac](https://t.me/mllfac)
 - **Email:** narbutviktoria6@gmail.com
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/699652376457379870)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
