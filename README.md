@@ -6,10 +6,6 @@
 
 <h3 align="center">Python Developer | Java Developer </h3>
 
----
-
-### 🛠️ Tech Stack
-
 [![My Skills](https://skillicons.dev/icons?i=blender,cpp,idea,ai,java,linux,py,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ---
