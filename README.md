@@ -10,17 +10,7 @@
 
 ### 🛠️ Tech Stack
 
-**Backend Development:**
-[![My Skills](https://skillicons.dev/icons?i=blender,cpp,idea,ai,java,linux,py,visualstudio,vscode,windows,&perline=10)](https://skillicons.dev)
-
-
-
-**AI & Machine Learning:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Tools & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=blender,cpp,idea,ai,java,linux,py,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ---
 
