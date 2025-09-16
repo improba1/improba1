@@ -11,10 +11,9 @@
 ### 🛠️ Tech Stack
 
 **Backend Development:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=blender,cpp,idea,ai,java,linux,py,visualstudio,vscode,windows,&perline=10)](https://skillicons.dev)
+
+
 
 **AI & Machine Learning:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
