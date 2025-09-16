@@ -17,7 +17,7 @@
 ### 📫 How to Reach Me
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/mllfac)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narbutviktoyria6@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narbutviktoyria6@gmail.com)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/699652376457379870)
 
 <p align="center">
